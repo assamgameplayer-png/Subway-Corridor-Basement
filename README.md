@@ -1,5 +1,5 @@
 # Subway Corridor + Basement
-Just download and play the game. no need to install any software needed to play. 
+Just download and play the game. no need to install any software needed to play. This just a walk through of a thing. Its a long project just trying achieve good graphics and gameplay with less resources. 
 
 A small browser-based first-person experience built with **Three.js** (r160).
 You wake up in a grimy subway corridor, shoot out the lights, smash the
