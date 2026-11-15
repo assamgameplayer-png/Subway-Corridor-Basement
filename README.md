@@ -1,4 +1,5 @@
 # Subway Corridor + Basement
+Just download and play the game. no need to install any software needed to play. 
 
 A small browser-based first-person experience built with **Three.js** (r160).
 You wake up in a grimy subway corridor, shoot out the lights, smash the
@@ -6,6 +7,7 @@ control-room glass, and walk to the green door at the far end — where a
 basement armory is waiting.
 <img width="1338" height="629" alt="image" src="https://github.com/user-attachments/assets/6170ac82-440c-429d-8ac0-b6fd5db254ea" />
 <img width="1345" height="620" alt="image" src="https://github.com/user-attachments/assets/d81905ec-909e-43b7-8197-6f22cb80313d" />
+<img width="1341" height="626" alt="image" src="https://github.com/user-attachments/assets/3774be05-9be8-4976-b88b-388ff6249cd6" />
 
 
 Everything you see is generated at runtime. **There are no image files, no
