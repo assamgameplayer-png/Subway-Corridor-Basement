@@ -8,6 +8,8 @@ basement armory is waiting.
 <img width="1338" height="629" alt="image" src="https://github.com/user-attachments/assets/6170ac82-440c-429d-8ac0-b6fd5db254ea" />
 <img width="1345" height="620" alt="image" src="https://github.com/user-attachments/assets/d81905ec-909e-43b7-8197-6f22cb80313d" />
 <img width="1341" height="626" alt="image" src="https://github.com/user-attachments/assets/3774be05-9be8-4976-b88b-388ff6249cd6" />
+<img width="1354" height="635" alt="image" src="https://github.com/user-attachments/assets/5cec2480-7acb-42e6-8356-f82d744e38b0" />
+
 
 
 Everything you see is generated at runtime. **There are no image files, no
